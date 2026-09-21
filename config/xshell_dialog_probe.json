@@ -1,0 +1,886 @@
+[
+  {
+    "depth": 0,
+    "type": "",
+    "name": "新建会话属性",
+    "class": "#32770",
+    "rect": [
+      620,
+      166,
+      1301,
+      874
+    ],
+    "hwnd": 7804014
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "帮助",
+    "class": "Button",
+    "rect": [
+      640,
+      828,
+      728,
+      858
+    ],
+    "hwnd": 4000300
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "确定",
+    "class": "Button",
+    "rect": [
+      1081,
+      828,
+      1176,
+      858
+    ],
+    "hwnd": 10882938
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "取消",
+    "class": "Button",
+    "rect": [
+      1186,
+      828,
+      1281,
+      858
+    ],
+    "hwnd": 34866096
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "类别(&C):",
+    "class": "Static",
+    "rect": [
+      640,
+      206,
+      810,
+      223
+    ],
+    "hwnd": 29888860
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "Tree1",
+    "class": "SysTreeView32",
+    "rect": [
+      640,
+      229,
+      810,
+      813
+    ],
+    "hwnd": 28447564
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "  连接",
+    "class": "Static",
+    "rect": [
+      819,
+      229,
+      1281,
+      255
+    ],
+    "hwnd": 12714982
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "_PLACE_HOLDER_",
+    "class": "Static",
+    "rect": [
+      819,
+      263,
+      1281,
+      813
+    ],
+    "hwnd": 1971276
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "连接",
+    "class": "Button",
+    "rect": [
+      976,
+      828,
+      1071,
+      858
+    ],
+    "hwnd": 25297960
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "",
+    "class": "#32770",
+    "rect": [
+      819,
+      263,
+      1281,
+      813
+    ],
+    "hwnd": 7865314
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "常规",
+    "class": "Button",
+    "rect": [
+      819,
+      263,
+      1279,
+      497
+    ],
+    "hwnd": 13570308
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "名称(&N):",
+    "class": "Static",
+    "rect": [
+      831,
+      286,
+      950,
+      303
+    ],
+    "hwnd": 11211160
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "新建会话",
+    "class": "Edit",
+    "rect": [
+      952,
+      284,
+      1185,
+      312
+    ],
+    "hwnd": 2887268
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "协议(&P):",
+    "class": "Static",
+    "rect": [
+      831,
+      318,
+      950,
+      335
+    ],
+    "hwnd": 4986058
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "SSH",
+    "class": "ComboBox",
+    "rect": [
+      952,
+      318,
+      1185,
+      343
+    ],
+    "hwnd": 8065154
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "主机(&H):",
+    "class": "Static",
+    "rect": [
+      831,
+      352,
+      950,
+      369
+    ],
+    "hwnd": 97325134
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "",
+    "class": "Edit",
+    "rect": [
+      952,
+      350,
+      1185,
+      378
+    ],
+    "hwnd": 13897014
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "端口号(&O):",
+    "class": "Static",
+    "rect": [
+      831,
+      386,
+      950,
+      403
+    ],
+    "hwnd": 29691186
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "222",
+    "class": "Edit",
+    "rect": [
+      952,
+      386,
+      1015,
+      414
+    ],
+    "hwnd": 15208072
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "Spin1",
+    "class": "msctls_updown32",
+    "rect": [
+      1013,
+      386,
+      1031,
+      414
+    ],
+    "hwnd": 5117084
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "说明(&D):",
+    "class": "Static",
+    "rect": [
+      831,
+      422,
+      950,
+      439
+    ],
+    "hwnd": 3477552
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "",
+    "class": "Edit",
+    "rect": [
+      952,
+      422,
+      1185,
+      482
+    ],
+    "hwnd": 5051676
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "",
+    "class": "Static",
+    "rect": [
+      1208,
+      293,
+      1240,
+      325
+    ],
+    "hwnd": 44109830
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "重新连接",
+    "class": "Button",
+    "rect": [
+      819,
+      507,
+      1279,
+      620
+    ],
+    "hwnd": 9704334
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "连接异常关闭时自动重新连接(&A) ",
+    "class": "Button",
+    "rect": [
+      831,
+      527,
+      1267,
+      563
+    ],
+    "hwnd": 2758058
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "间隔(&V): ",
+    "class": "Static",
+    "rect": [
+      852,
+      575,
+      950,
+      592
+    ],
+    "hwnd": 6557556
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "0",
+    "class": "Edit",
+    "rect": [
+      952,
+      573,
+      1015,
+      601
+    ],
+    "hwnd": 30806102
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "Spin1",
+    "class": "msctls_updown32",
+    "rect": [
+      1013,
+      573,
+      1031,
+      601
+    ],
+    "hwnd": 788342
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "秒",
+    "class": "Static",
+    "rect": [
+      1036,
+      575,
+      1061,
+      592
+    ],
+    "hwnd": 16059748
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "限制(&L):",
+    "class": "Static",
+    "rect": [
+      1068,
+      575,
+      1128,
+      592
+    ],
+    "hwnd": 24971232
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "0",
+    "class": "Edit",
+    "rect": [
+      1136,
+      573,
+      1202,
+      601
+    ],
+    "hwnd": 4918552
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "Spin1",
+    "class": "msctls_updown32",
+    "rect": [
+      1200,
+      573,
+      1218,
+      601
+    ],
+    "hwnd": 82446670
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "分钟 ",
+    "class": "Static",
+    "rect": [
+      1229,
+      575,
+      1268,
+      592
+    ],
+    "hwnd": 1837526
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "TCP选项",
+    "class": "Button",
+    "rect": [
+      819,
+      631,
+      1279,
+      710
+    ],
+    "hwnd": 16061506
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "使用Nagle算法(&U)",
+    "class": "Button",
+    "rect": [
+      831,
+      658,
+      1228,
+      679
+    ],
+    "hwnd": 2164576
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "互联网协议版本",
+    "class": "Button",
+    "rect": [
+      819,
+      720,
+      1279,
+      780
+    ],
+    "hwnd": 12388634
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "自动",
+    "class": "Button",
+    "rect": [
+      831,
+      745,
+      924,
+      762
+    ],
+    "hwnd": 3019926
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "IPv4",
+    "class": "Button",
+    "rect": [
+      935,
+      745,
+      1028,
+      762
+    ],
+    "hwnd": 53678562
+  },
+  {
+    "depth": 2,
+    "type": "",
+    "name": "IPv6",
+    "class": "Button",
+    "rect": [
+      1040,
+      745,
+      1133,
+      762
+    ],
+    "hwnd": 13045482
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "常规",
+    "class": "Button",
+    "rect": [
+      819,
+      263,
+      1279,
+      497
+    ],
+    "hwnd": 13570308
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "名称(&N):",
+    "class": "Static",
+    "rect": [
+      831,
+      286,
+      950,
+      303
+    ],
+    "hwnd": 11211160
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "新建会话",
+    "class": "Edit",
+    "rect": [
+      952,
+      284,
+      1185,
+      312
+    ],
+    "hwnd": 2887268
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "协议(&P):",
+    "class": "Static",
+    "rect": [
+      831,
+      318,
+      950,
+      335
+    ],
+    "hwnd": 4986058
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "SSH",
+    "class": "ComboBox",
+    "rect": [
+      952,
+      318,
+      1185,
+      343
+    ],
+    "hwnd": 8065154
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "主机(&H):",
+    "class": "Static",
+    "rect": [
+      831,
+      352,
+      950,
+      369
+    ],
+    "hwnd": 97325134
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "",
+    "class": "Edit",
+    "rect": [
+      952,
+      350,
+      1185,
+      378
+    ],
+    "hwnd": 13897014
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "端口号(&O):",
+    "class": "Static",
+    "rect": [
+      831,
+      386,
+      950,
+      403
+    ],
+    "hwnd": 29691186
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "222",
+    "class": "Edit",
+    "rect": [
+      952,
+      386,
+      1015,
+      414
+    ],
+    "hwnd": 15208072
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "Spin1",
+    "class": "msctls_updown32",
+    "rect": [
+      1013,
+      386,
+      1031,
+      414
+    ],
+    "hwnd": 5117084
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "说明(&D):",
+    "class": "Static",
+    "rect": [
+      831,
+      422,
+      950,
+      439
+    ],
+    "hwnd": 3477552
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "",
+    "class": "Edit",
+    "rect": [
+      952,
+      422,
+      1185,
+      482
+    ],
+    "hwnd": 5051676
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "",
+    "class": "Static",
+    "rect": [
+      1208,
+      293,
+      1240,
+      325
+    ],
+    "hwnd": 44109830
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "重新连接",
+    "class": "Button",
+    "rect": [
+      819,
+      507,
+      1279,
+      620
+    ],
+    "hwnd": 9704334
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "连接异常关闭时自动重新连接(&A) ",
+    "class": "Button",
+    "rect": [
+      831,
+      527,
+      1267,
+      563
+    ],
+    "hwnd": 2758058
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "间隔(&V): ",
+    "class": "Static",
+    "rect": [
+      852,
+      575,
+      950,
+      592
+    ],
+    "hwnd": 6557556
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "0",
+    "class": "Edit",
+    "rect": [
+      952,
+      573,
+      1015,
+      601
+    ],
+    "hwnd": 30806102
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "Spin1",
+    "class": "msctls_updown32",
+    "rect": [
+      1013,
+      573,
+      1031,
+      601
+    ],
+    "hwnd": 788342
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "秒",
+    "class": "Static",
+    "rect": [
+      1036,
+      575,
+      1061,
+      592
+    ],
+    "hwnd": 16059748
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "限制(&L):",
+    "class": "Static",
+    "rect": [
+      1068,
+      575,
+      1128,
+      592
+    ],
+    "hwnd": 24971232
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "0",
+    "class": "Edit",
+    "rect": [
+      1136,
+      573,
+      1202,
+      601
+    ],
+    "hwnd": 4918552
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "Spin1",
+    "class": "msctls_updown32",
+    "rect": [
+      1200,
+      573,
+      1218,
+      601
+    ],
+    "hwnd": 82446670
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "分钟 ",
+    "class": "Static",
+    "rect": [
+      1229,
+      575,
+      1268,
+      592
+    ],
+    "hwnd": 1837526
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "TCP选项",
+    "class": "Button",
+    "rect": [
+      819,
+      631,
+      1279,
+      710
+    ],
+    "hwnd": 16061506
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "使用Nagle算法(&U)",
+    "class": "Button",
+    "rect": [
+      831,
+      658,
+      1228,
+      679
+    ],
+    "hwnd": 2164576
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "互联网协议版本",
+    "class": "Button",
+    "rect": [
+      819,
+      720,
+      1279,
+      780
+    ],
+    "hwnd": 12388634
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "自动",
+    "class": "Button",
+    "rect": [
+      831,
+      745,
+      924,
+      762
+    ],
+    "hwnd": 3019926
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "IPv4",
+    "class": "Button",
+    "rect": [
+      935,
+      745,
+      1028,
+      762
+    ],
+    "hwnd": 53678562
+  },
+  {
+    "depth": 1,
+    "type": "",
+    "name": "IPv6",
+    "class": "Button",
+    "rect": [
+      1040,
+      745,
+      1133,
+      762
+    ],
+    "hwnd": 13045482
+  }
+]

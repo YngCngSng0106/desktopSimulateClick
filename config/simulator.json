@@ -1,0 +1,21 @@
+{
+  "xshell": {
+    "exe": "C:\\Program Files (x86)\\NetSarang\\Xshell 7\\Xshell.exe",
+    "window_title_contains": "Xshell",
+    "input_method": "paste",
+    "click_title_to_activate": true,
+    "click_terminal_before_send": true,
+    "terminal_margin": { "top": 170, "left": 40 },
+    "tab_cycle_key": ["ctrl", "tab"],
+    "max_tab_cycle": 30,
+    "stop_on_tab_not_found": true
+  },
+  "timing": {
+    "after_activate": 0.5,
+    "tab_cycle_wait": 0.8,
+    "after_command": 1.0
+  },
+  "executor": {
+    "stop_on_error": true
+  }
+}

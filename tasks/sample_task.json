@@ -1,0 +1,10 @@
+{
+  "name": "示例任务：连接已有会话并执行操作",
+  "steps": [
+    { "action": "switch_tab", "tab": "root@192.168.3.213" },
+    { "action": "send_command", "command": "cd /data/apps/PACSServer", "wait": 0.5 },
+    { "action": "send_command", "command": "pwd", "wait": 0.5 },
+    { "action": "send_command", "command": "ls -lt | head -20", "wait": 1.0 },
+    { "action": "wait", "seconds": 1 }
+  ]
+}
